@@ -1,4 +1,4 @@
-- <p align="center">
+<p align="center">
   <img src="./assets/Megaman (1).png" alt="Logo Megaman API" width="300"/>
 </p>
 
@@ -93,6 +93,18 @@ Antes de iniciar, certifique-se de ter instalado:
 
 ---
 🚀 **Pronto! Agora você pode consumir a API e listar os bosses de Megaman!**
+---------------
+# Documentação com IA
+
+- [] Criar read-me mais profissional
+- [] Utilizar um projeto pronto sem documentação
+- [] Ver possibilidades de ferramentas para documentas um projeto
+
+--
+pré-requisitos
+- [] Ter um projeto (opcional)
+- [] Git/Github
+- [] Ferramenta de IA através de chat
 
 
 Karen Nascimento - https://github.com/KarenNascy 🎮🔥
